@@ -1,6 +1,6 @@
 # OpenCV-Virtual-Gesture-Keyboard
 A very simple gesture virtual keyboard using Python and OpenCV. It based on yellow paper that is worn on finger and the ideaof click is based on when the paper moves towards the camera its area increases and when it goes away, the area decreases which is detected by the camera. The position of the click determines the key press that is to be simulated.
-The result can be seen in the video <a href <https://youtu.be/Ff81PusXiEs> <here></a>
+The result can be seen in the video <a href = https://youtu.be/Ff81PusXiEs> here</a>
 
 # Requirements
 1. PyAutoGui<br>
